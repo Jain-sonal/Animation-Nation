@@ -1459,7 +1459,14 @@ let cards = [
 	imageLink: "./Art/Alara Joel/stealth ghost.png",
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
-}
+},
+    {
+      artName: "Nodding QuadMan",
+      pageLink: "./Art/Jain-sonal/index.html",
+      imageLink: "./Art/Jain-sonal/My not-so Flashy Animation.gif",
+      author: "Sonal Jain",
+      githubLink: "https://github.com/Jain-sonal"
+    }
 ];
 
 // +--------------------------------------------------------------------------------+
